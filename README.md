@@ -1,0 +1,4 @@
+#Java basics:
+1. Add a class that represents a programming language course (ID: string, name, programming language). Override the "equals" and "hashCode" methods
+2. A course can take place many times a week. Each time is called "a course occurrence". It's defined by the day of the week, the starting hour, and the number of hours - for example: every Sunday at 17:30 for 4 hours. A course may have many occurrences. Add a class that represents a course occurrence
+3. Create a class with a main method that allows inserting new course and its occurrences, and display a specific course and its occurrences (no need for DB - store them in memory for now)
